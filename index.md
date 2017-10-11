@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: presentation
 ---
 
 ![](assets/img/ArduinoCommunityLogo.png)

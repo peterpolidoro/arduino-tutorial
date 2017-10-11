@@ -2,29 +2,18 @@
 layout: presentation
 ---
 
-# [](#header-1)Header 1
+# [](#header-1)Arduino
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 
-## [](#header-2)Header 2
+## [](#header-2)Hardware
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Physical programmable circuit boards.
 
-### [](#header-3)Header 3
+![](assets/img/mega.jpg)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## [](#header-2)Software
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+IDE (Integrated Development Environment)
+
+![](assets/img/ide.jpg)

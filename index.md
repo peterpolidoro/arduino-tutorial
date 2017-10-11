@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![]({{ site.url }}/assets/img/ArduinoCommunityLogo.png)
+![](assets/img/ArduinoCommunityLogo.png)

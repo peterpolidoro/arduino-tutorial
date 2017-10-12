@@ -81,4 +81,21 @@ solutions in the future.
 
 Might give you good alternatives if the project changes or hits road blocks.
 
-People have been producing tones since time immemorial.
+[No Hardware](no-hardware)
+
+Do not build or buy anything, just learn to whistle.
+
+Nothing to lose, nothing to break, perfect for training dogs to herd sheep in
+the rain.
+
+Frequency and timing may be difficult to reproduce.
+
+If one researcher trains the mice, another may not be
+able to whistle in the same way. Frequency may change as researcher becomes
+tired or bored.
+
+May want to measure to document and verify tones. Will not make repeatable, but
+it could tell you if you are not. Then this solution would need hardware.
+
+Cannot automate. So far the researcher has not said anything about automating
+the tones, but it is easy to imagine that being a future request.

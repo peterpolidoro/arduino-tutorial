@@ -19,4 +19,4 @@ use your hammer.
 
 # [](#header-1) Try Something New!
 
-[![](assets/img/choice.png)](approaches)
+[![](assets/img/choice.png)](no-hardware)

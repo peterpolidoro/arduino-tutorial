@@ -12,4 +12,6 @@ License:
 
 <https://peterpolidoro.github.io/arduino-tutorial/>
 
-[text](text.md)
+## Text
+
+<text.md>

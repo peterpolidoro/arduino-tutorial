@@ -51,3 +51,8 @@ be important that it only contain a single frequency.
 The researcher tells you that the done does not need to be completely pure, but
 it must be repeatable and distinct enough so that multiple tones can be
 distinguished.
+
+So far this project sounds pretty straightforward without any difficult
+technical challenges.
+
+People have been producing tones since time immemorial.

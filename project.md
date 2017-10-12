@@ -4,6 +4,6 @@ layout: presentation
 
 # [](#header-1)Project
 
-Researcher wants to play tones to train animals.
+Researcher wants to play tones to train mice.
 
-[![](assets/img/sine.png)](project-questions)
+[![](assets/img/mouse.png)](tone-details)

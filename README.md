@@ -8,10 +8,10 @@ License:
 
     BSD
 
-## Presentation
-
 <https://peterpolidoro.github.io/arduino-tutorial/>
 
-## Text
+## Presentation
 
-<text.md>
+[Slides](https://peterpolidoro.github.io/arduino-tutorial/)
+
+[Text](text.md)

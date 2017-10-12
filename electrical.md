@@ -6,4 +6,4 @@ layout: presentation
 
 Can be easier to build, replicate, and modify than purely mechanical solutions.
 
-[![](assets/img/tone-generator.png)]()
+[![](assets/img/electrical.png)]()

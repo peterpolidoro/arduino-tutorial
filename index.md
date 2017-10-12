@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/arduino_logo.png)](project)
+[![](assets/img/arduino-logo.png)](project)

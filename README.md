@@ -1,4 +1,4 @@
-# arduino_tutorial
+# arduino-tutorial
 
 Authors:
 
@@ -8,8 +8,8 @@ License:
 
     BSD
 
-## Arduino Tutorial Janelia Presentation
+## Presentation
 
-Given October 16, 2017
+<https://peterpolidoro.github.io/arduino-tutorial/>
 
-<https://peterpolidoro.github.io/arduino_tutorial/>
+[text](text.md)

@@ -6,4 +6,4 @@ layout: presentation
 
 Researcher wants to play tones to train animals.
 
-[![](assets/img/sine_wave.png)](project)
+[![](assets/img/sine.png)](project-types)

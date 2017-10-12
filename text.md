@@ -110,3 +110,8 @@ Perhaps more repeatable and reliable than humans alone.
 
 Could be possible to automate. Perhaps a string gets plucked automatically.
 People have created elaborate automated mechanical machines.
+
+Mechanical automation can be simple and elegant, but it can be difficult to
+replicate and modify. It can wear and change over time.
+
+[Electrical](electrical)

@@ -83,7 +83,7 @@ Might give you good alternatives if the project changes or hits road blocks.
 
 [No Hardware](no-hardware)
 
-Do not build or buy anything, just learn to whistle.
+Do not build or buy anything.
 
 Nothing to lose, nothing to break, perfect for training dogs to herd sheep in
 the rain.
@@ -99,3 +99,14 @@ it could tell you if you are not. Then this solution would need hardware.
 
 Cannot automate. So far the researcher has not said anything about automating
 the tones, but it is easy to imagine that being a future request.
+
+[Mechanical](mechanical)
+
+People have been producing tones since time immemorial.
+
+Musical instruments, whistles, vibrating strings, player pianos.
+
+Perhaps more repeatable and reliable than humans alone.
+
+Could be possible to automate. Perhaps a string gets plucked automatically.
+People have created elaborate automated mechanical machines.

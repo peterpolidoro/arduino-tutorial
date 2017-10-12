@@ -115,3 +115,10 @@ Mechanical automation can be simple and elegant, but it can be difficult to
 replicate and modify. It can wear and change over time.
 
 [Electrical](electrical)
+
+Electrical solutions can be easier to build, replicate, and modify than purely
+mechanical solutions.
+
+Parts tend to be mass produced and relatively inexpensive.
+
+Electrical noise can create audio noise.

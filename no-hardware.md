@@ -15,4 +15,4 @@ May want to measure to document and verify tones.
 
 Cannot automate.
 
-[![](assets/img/whistling.png)](mechanical)
+[![](assets/img/no-hardware.png)](mechanical)

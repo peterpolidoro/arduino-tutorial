@@ -6,6 +6,4 @@ layout: presentation
 
 People have been producing tones since time immemorial.
 
-Musical instruments, whistles, vibrating strings, player pianos.
-
-[![](assets/img/whistle.png)](electrical)
+[![](assets/img/mechanical.png)](electrical)

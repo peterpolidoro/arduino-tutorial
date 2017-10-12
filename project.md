@@ -4,6 +4,6 @@ layout: presentation
 
 # [](#header-1)Project
 
-Play tone to train mice to reach for food pellet.
+Researcher wants to play tones to train animals.
 
-[![](assets/img/mouse.jpg)](project)
+[![](assets/img/sine_wave.png)](project)

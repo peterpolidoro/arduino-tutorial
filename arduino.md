@@ -10,10 +10,10 @@ Open-source electronic prototyping platform enabling users to create interactive
 
 Physical programmable circuit boards.
 
-![](assets/img/mega.jpg)
+![](assets/img/mega.png)
 
 ## [](#header-2)Software
 
 IDE (Integrated Development Environment)
 
-![](assets/img/ide.jpg)
+![](assets/img/ide.png)

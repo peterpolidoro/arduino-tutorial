@@ -54,4 +54,31 @@ distinguished.
 So far this project sounds pretty straightforward without any difficult
 technical challenges.
 
+So how do you choose an approach?
+
+[Solution Choice](solution-choice)
+
+Narrow the solution scope.
+
+Project specifications will reduce the space of reasonable solutions.
+
+Sometimes having too many options can be overwhelming and lead to choice
+paralysis.
+
+Many options may still exist for solving the problem, how do you pick?
+
+Use your favorite tool.
+
+It might be perfectly acceptable to use any solution that you know well.
+
+Just be careful not to force every problem to look like a nail just so you can
+use your hammer.
+
+Use projects like these to try something new.
+
+The more tools you have used to solve problems, the better you get at chosing
+solutions in the future.
+
+Might give you good alternatives if the project changes or hits road blocks.
+
 People have been producing tones since time immemorial.

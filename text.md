@@ -6,6 +6,21 @@ layout: presentation
 
 [Project](project)
 
+Researcher wants to train mice to reach for a food pellet after they hear a
+sound.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Imagine your job is to build tools and instruments for researchers studying
 animals.
 

@@ -6,14 +6,14 @@ layout: presentation
 
 # [](#header-2) Human
 
-"Reach for the food pellet please."
+> "Reach for the food pellet please."
 
 # [](#header-2) Mouse
 
-# [](#header-3) Perhaps:
+* Perhaps:
 
-Ultrasonic "squeek, squeek, squeek"
+> Ultrasonic "squeek, squeek, squeek"
 
-# [](#header-3) More likely:
+* More likely:
 
 [![](assets/img/does-not-exist.png)](r2d2)

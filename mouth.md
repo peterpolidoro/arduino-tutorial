@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/mouth.png)](language)
+[![](assets/img/mouth.png)](languages)

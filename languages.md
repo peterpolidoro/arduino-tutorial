@@ -4,16 +4,16 @@ layout: presentation
 
 # [](#header-1) Language Options
 
-# [](#header-1) Human
+# [](#header-2) Human
 
 "Reach for the food pellet please."
 
-# [](#header-1) Mouse
+# [](#header-2) Mouse
 
-Perhaps:
+# [](#header-3) Perhaps:
 
 Ultrasonic "squeek, squeek, squeek"
 
-More likely:
+# [](#header-3) More likely:
 
 [![](assets/img/does-not-exist.png)](r2d2)

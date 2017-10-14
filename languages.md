@@ -16,4 +16,4 @@ layout: presentation
 
 * More likely:
 
-[![](assets/img/does-not-exist.png)](r2d2)
+[![](assets/img/does-not-exist.png)](droid)

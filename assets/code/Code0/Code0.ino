@@ -1,8 +1,3 @@
----
-layout: presentation
----
-
-```c++
 const int speaker_pin = 3;
 
 const int tone_frequency = 500;
@@ -24,6 +19,3 @@ void loop()
   togglePin();
   delay(tone_half_period_ms);
 }
-```
-
-[![](assets/img/arduino-speaker.png)](code1)

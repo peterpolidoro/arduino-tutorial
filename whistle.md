@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/whistle.png)](mechanical)
+[![](assets/img/whistle.png)](robot-feeding)

@@ -2,6 +2,6 @@
 layout: presentation
 ---
 
-# [](#header-1) Electrical
+# [](#header-1) Electronics + Mechanical
 
-[![](assets/img/electrical.png)]()
+[![](assets/img/electro-mechanical.png)]()

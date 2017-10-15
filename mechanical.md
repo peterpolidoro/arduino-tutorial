@@ -2,6 +2,6 @@
 layout: presentation
 ---
 
-# [](#header-1) Mechancial
+# [](#header-1) Mechancial Transmitter
 
-[![](assets/img/mechanical.png)](electrical)
+[![](assets/img/mechanical.png)](human-transmitter)

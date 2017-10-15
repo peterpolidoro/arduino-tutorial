@@ -14,6 +14,6 @@ layout: presentation
 
 > Ultrasonic "squeek, squeek, squeek"
 
-* More likely:
+* Or possibly:
 
-[![](assets/img/does-not-exist.png)](droid)
+[![](assets/img/does-not-exist.png)](language-droid)

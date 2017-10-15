@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/whistle-robot.png)](human-robot)
+[![](assets/img/whistle-robot.png)](transmitter)

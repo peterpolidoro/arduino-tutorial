@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/mouth.png)](languages)
+[![](assets/img/mouth.png)](languages-human-mouse)

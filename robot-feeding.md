@@ -6,4 +6,4 @@ layout: presentation
 
 (Product may differ from image)
 
-[![](assets/img/robot-feeding.png)](mechanical)
+[![](assets/img/robot-feeding.png)](whistle-robot)

@@ -9,7 +9,7 @@ const int tone_frequency = 500;
 
 void setup()
 {
-  tone(speaker_pin,tone_frequency);
+  tone(speaker_pin, tone_frequency);
 }
 
 void loop()

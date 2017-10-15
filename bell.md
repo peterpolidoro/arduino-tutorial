@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/bell.png)](human-transmitter)
+[![](assets/img/bell.png)](human-bell)

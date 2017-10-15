@@ -10,10 +10,10 @@ layout: presentation
 >
 > "Change tone duration to 75 ms please."
 
-# [](#header-2) Mechanical
+# [](#header-2) Processor
 
-Information is stored kinetically.
+Information is stored digitally.
 
-Mass is distributed geometrically in 3D space and time.
+Machine code instruction set.
 
-[![](assets/img/kinetic.png)](language-knob)
+[![](assets/img/machine-code.png)](language-software)

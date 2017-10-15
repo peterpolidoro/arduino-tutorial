@@ -18,4 +18,4 @@ setToneFrequency(5000)
 setToneDuration(75)
 ```
 
-[![](assets/img/software.png)](software-electro-mechanical)
+[software-electro-mechanical](software-electro-mechanical)

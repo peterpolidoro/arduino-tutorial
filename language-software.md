@@ -2,7 +2,7 @@
 layout: presentation
 ---
 
-# [](#header-1) Software
+# [](#header-1) Software Language
 
 High-level programming languages add abstraction to machine languages to be
 closer to natural human languages.
@@ -18,4 +18,4 @@ setToneFrequency(5000)
 setToneDuration(75)
 ```
 
-[software-electro-mechanical](software-electro-mechanical)
+[Hardware](software-electro-mechanical)

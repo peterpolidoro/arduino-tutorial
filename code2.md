@@ -10,14 +10,16 @@ MouseSoundTransmitter mouse_sound_transmitter;
 
 void setup()
 {
-  mouse_sound_transmitter.setup();
+  mouse_sound_transmitter.setupSerial();
+
+  mouse_sound_transmitter.setupButton();
 }
 
 void loop()
 {
-  mouse_sound_transmitter.checkForRigCommands();
+  mouse_sound_transmitter.checkForSerialCommands();
 
-  mouse_sound_transmitter.checkForResearcherCommands();
+  mouse_sound_transmitter.checkForButtonPress();
 }
 ```
 

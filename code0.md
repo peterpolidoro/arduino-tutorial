@@ -3,26 +3,20 @@ layout: presentation
 ---
 
 ```c++
-const int speaker_pin = 3;
+// library includes
 
-const int tone_frequency = 500;
-const int tone_half_period_ms = 1000/(2*tone_frequency);
+// local includes
 
-void togglePin()
-{
-  int current_state = digitalRead(speaker_pin);
-  digitalWrite(speaker_pin, !current_state);
-}
+
+// global variables (minimize count)
 
 void setup()
 {
-  pinMode(speaker_pin, OUTPUT);
 }
 
 void loop()
 {
-  togglePin();
-  delay(tone_half_period_ms);
+  // minimize time spent in loop
 }
 ```
 

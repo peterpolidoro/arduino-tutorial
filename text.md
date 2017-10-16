@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: default
 ---
 
 [Start](index)

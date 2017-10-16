@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/choosing.png)](bates)
+[![](assets/img/choosing.png)](more-is-more)

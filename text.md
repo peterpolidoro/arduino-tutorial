@@ -14,9 +14,53 @@ sound.
 
 
 
+Powerful human language processing.
 
+Could write an app for that.
 
+Might be tricky to get automated experiment rig to communicate to the phone.
 
+Probably do not want to tie up your phone during automated experiments.
+
+Automated experiment rig may or may not already contain one.
+
+Researcher probably has one and might use it to communicate with rig.
+
+Easy to write software using high-level programming languages.
+
+Might get tricky to support all operating systems, programming language choices,
+and soundcard device drivers.
+
+Sound output may accidentally be disabled or overridden by the user clicking on
+a web page, plugging in head phones, playing a movie, or updating software.
+
+Timing may be affected by other operating system processes, like synchronizing
+dropbox, automatic updates, saving or processing giant files, or going to sleep.
+
+Might need to add extra hardware to get input and output pins.
+
+Processors are inexpensive.
+
+Easier to standardize on multiple rigs.
+
+Easier to control the software and hardware environment.
+
+Performance is not affected by user's computer.
+
+Can be used standalone or as a connected device.
+
+# [](#header-1) Operating System?
+
+The software that supports a computer's basic functions, such as scheduling
+tasks, executing applications, and controlling peripherals.
+
+Enables the use of lots of prewritten, well-tested, software libraries.
+
+Adds convenience, but also overhead.
+
+Needs to be configured and maintained, needs time to boot up and shut down.
+
+Not real-time. Operating system interrupts can affect timing.
 
 
 

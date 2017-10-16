@@ -16,4 +16,4 @@ Physical programmable circuit boards.
 
 IDE (Integrated Development Environment)
 
-[![](assets/img/ide.png)](arduino-speaker)
+[![](assets/img/ide.png)](arduino-simplifies)

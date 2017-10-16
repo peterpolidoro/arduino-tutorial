@@ -21,4 +21,4 @@ void loop()
 }
 ```
 
-[![](assets/img/arduino-speaker.png)](venn)
+[![](assets/img/arduino-speaker-button.png)](venn)

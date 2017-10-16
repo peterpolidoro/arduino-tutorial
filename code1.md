@@ -55,4 +55,4 @@ void loop()
 }
 ```
 
-[![](assets/img/arduino-speaker.png)](code2)
+[![](assets/img/arduino-speaker-button.png)](code2)

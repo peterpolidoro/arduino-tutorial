@@ -14,4 +14,4 @@ License:
 
 [Slides](https://peterpolidoro.github.io/arduino-tutorial/)
 
-[Text](text.md)
+[Text](https://peterpolidoro.github.io/arduino-tutorial/text)

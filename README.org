@@ -1,0 +1,15 @@
+#+TITLE: arduino-tutorial
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+  [[https://peterpolidoro.github.io/arduino-tutorial/]]
+
+* Presentation
+
+  [[https://peterpolidoro.github.io/arduino-tutorial/)][Slides]]
+
+  [[https://peterpolidoro.github.io/arduino-tutorial/text][Text]]

@@ -19,6 +19,8 @@ data in a given amount of time, by training the to mouse to perform on cue.
 This is a very vague project description so far, but often it is useful to
 figure out the fundamental problem of a project before diving into the details.
 
+[Communication](communication)
+
 At heart of this project is a communication problem.
 
 This figure is from Claude Shannon's wonderful paper on the mathematical theory
